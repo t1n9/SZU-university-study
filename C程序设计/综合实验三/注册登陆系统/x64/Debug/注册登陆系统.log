@@ -1,0 +1,9 @@
+﻿D:\vc\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(注册登陆系统.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源.c
+D:\.学习相关\.C\综合实验三\注册登陆系统\源.c(35,48): warning C4305: “初始化”: 从“double”到“float”截断
+D:\.学习相关\.C\综合实验三\注册登陆系统\源.c(37,56): warning C4305: “初始化”: 从“double”到“float”截断
+D:\.学习相关\.C\综合实验三\注册登陆系统\源.c(78,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\.学习相关\.C\综合实验三\注册登陆系统\源.c(96,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\.学习相关\.C\综合实验三\注册登陆系统\源.c(358,21): warning C4305: “=”: 从“double”到“float”截断
+D:\.学习相关\.C\综合实验三\注册登陆系统\源.c(365,21): warning C4305: “=”: 从“double”到“float”截断
+  注册登陆系统.vcxproj -> D:\.学习相关\.C\综合实验三\x64\Debug\v0.3.exe
